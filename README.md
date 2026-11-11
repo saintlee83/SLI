@@ -1,2 +1,3 @@
 # SLI
-SignLangauge Interface for deaf people
+
+This repository is no longer maintained. Development continues in **[OpenSLI](https://github.com/saintlee83/OpenSLI)**.
